@@ -1,8 +1,13 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" height="30" width="40" />
+	</a>
+	<a href="https://replit.com/@ALFREDOPERES1?path=" target="blank">
+		<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Replit-Dark.svg" height="30" width="40" />
+	</a>
 </p>
-
+<br><br>
 <h3 align="left">Front-End:</h3>
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -18,6 +23,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
 </p>
+<br><br>
 <h3 align="left">Database: </h3>
 <p align="left">
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -36,7 +42,7 @@
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 	</a>
 </p>
-
+<br><br>
 <h3 align="left">Mobile: </h3>
 <p align="left">
 	<a href="https://dart.dev" target="_blank" rel="noreferrer">
@@ -46,21 +52,21 @@
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 	</a>
 </p>
-
+<br><br>
 <h3 align="left">Oriented Object: </h3>
 <p align="left">
 	<a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 	</a> 
 </p>
-
+<br><br>
 <h3 align="left">Design:</h3>
 <p align="left">
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 	</a>
 </p>
-
+<br><br>
 <p>
 	<img 
 	 align="center" 

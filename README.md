@@ -1,6 +1,6 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank">
+	<a href="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" height="50" width="60" />
 	</a>
 	<a href="https://replit.com/@ALFREDOPERES1?path=" target="blank">

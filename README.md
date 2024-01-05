@@ -1,4 +1,11 @@
-<h3 align="left">Redes Sociais:</h3>
+<h1 align="center">Hi 👋, I'm Alfredo</h1>
+<h3 align="center">A web developer</h3>
+
+- 🌱 I’m currently learning **React, TypeScript and UX/UI**
+
+- 📄 Know about my [experiences](https://a-marvulle.github.io/portfolio/)
+  
+<h3 align="left">Social:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" height="50" width="60" />
@@ -21,6 +28,9 @@
 	</a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 	</a>
 </p>
 

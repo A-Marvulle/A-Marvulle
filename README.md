@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfredo</h1>
 <h3 align="center">A web developer</h3>
 
-- 🌱 I’m currently learning **React, SEO and UX/UI**
+- 🌱 I’m currently learning **React, SEO and PHP**
 
 - 📄 Know about my [experiences](https://a-marvulle.github.io/portfolio/)
   

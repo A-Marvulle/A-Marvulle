@@ -14,9 +14,6 @@
 	<a href="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/alfredoperesmarvulle-87920a1b7" height="50" width="60" />
 	</a>
-	<a href="https://replit.com/@ALFREDOPERES1?path=" target="blank">
-		<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Replit-Dark.svg" height="50" width="60" />
-	</a>
 </p>
 
 <h3 align="left">💻 Front-End:</h3>
@@ -40,9 +37,6 @@
 
 <h3 align="left">🎲 Banco de Dados: </h3>
 <p align="left">
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
-	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 	</a>

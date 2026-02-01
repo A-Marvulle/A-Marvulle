@@ -1,9 +1,11 @@
-<div>
-    <img width="100%" height="100%" style="object-fit: cover;" src="./coding.gif" alt="Coding Gif" />
+<div align="center">
+    <img width="25%" height="25%" style="object-fit: cover;" src="./coding.gif" alt="Coding Gif" />
 </div>
 
-<h1 align="center">Hi, I'm Alfredo ☕ </h1>
+<div>
+    <h1 align="center">Hi, I'm Alfredo ☕ </h1>
 <h2 align="center">A Frontend Developer</h2>
+</div>
 
 <p> 🌱 I'm currently working on 
     <a href="https://pintamunditintasjaguare.com.br" target="_blank" rel="noreferrer noopener nofollow">

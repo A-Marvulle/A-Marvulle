@@ -24,8 +24,7 @@
     </a>.
 </p>
 
-<p> 🏆 My education started in 2018 at my Technical High School, continued in 2021 when I entered college, 
-    and “ended” (for now) in 2025 after I completed my postgraduate degree.  
+<p> 🏆 My education began in 2018 at a Technical High School, continued in 2021 when I entered college, and extended until 2025, when I completed my postgraduate degree.
     You can learn more about my experience 
     <a href="https://a-marvulle.github.io/portfolio/" 
        target="_blank" 

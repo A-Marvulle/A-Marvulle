@@ -3,7 +3,7 @@
 -- alfredo@marvulle --
 ----------------------
 ultima_graduacao: "Pós Graduação - Senac";
-ultimo_cargo: "Desenvolvedor Front End";
+ultimo_cargo: "Desenvolvedor de Sistemas";
 ultimo_projeto: "https://pintamunditintasjaguare.com.br/";
 stack: {
     linguagens: {
@@ -12,7 +12,7 @@ stack: {
         php;
     },
     frameworks: {
-        react;
+        laravel;
         vue;
         nuxt;
     },
